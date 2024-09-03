@@ -37,3 +37,6 @@ Exemplo: git reset
      
 git revert <commit>: Desfaz as mudanças de um commit específico.
 Exemplo: git revert 7b750f3
+
+git remote add origin: adiciona um repositório remoto
+git remote add origin "https://linkdorepositorio"
