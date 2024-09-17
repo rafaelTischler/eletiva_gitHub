@@ -38,5 +38,14 @@ Exemplo: git reset
 git revert <commit>: Desfaz as mudanças de um commit específico.
 Exemplo: git revert 7b750f3
 
-git remote add origin: adiciona um repositório remoto
+git remote add origin: adiciona um repositório local à um remoto
 git remote add origin "https://linkdorepositorio"
+
+git remote -v: diz se o respositorio local esta ou não vinculado a um repositorio remoto
+Ex: origin  https://github.com/rafaelTischler/eletiva_gitHub.git (fetch) *pegar 
+    origin  https://github.com/rafaelTischler/eletiva_gitHub.git (push) *enviar
+
+git remote add nomequalquer https://github.com/rafaelTischler/remote2_eletivaGit.git: add um repositorio local à outro remoto
+
+
+
