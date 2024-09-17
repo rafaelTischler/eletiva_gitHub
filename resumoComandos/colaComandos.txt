@@ -47,5 +47,17 @@ Ex: origin  https://github.com/rafaelTischler/eletiva_gitHub.git (fetch) *pegar
 
 git remote add nomequalquer https://github.com/rafaelTischler/remote2_eletivaGit.git: add um repositorio local à outro remoto
 
+git remote rm nomequalquer: remove o link remoto
 
+git branch: lista as branchs
+
+git branch -v: lista as branchs e os ultimos commits
+
+git branch design: cria a branch design
+
+git checkout design: troca o cabeçalho pr adesign
+
+git checkout -b nova: cria e ja troca pra branch nova
+
+git branch -d nova: deleta
 
