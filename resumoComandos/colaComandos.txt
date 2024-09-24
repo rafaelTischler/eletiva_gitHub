@@ -61,3 +61,21 @@ git checkout -b nova: cria e ja troca pra branch nova
 
 git branch -d nova: deleta
 
+
+git branch --no-merged : mostra as branch nao mescladas
+
+git branch --merged : mostra as branch  mescladas
+
+$ git log --oneline --decorate --parents:  mostra os pais e filhos de cada commit
+
+
+git rebase design: remove os commits de merge da branch design
+
+$ git reflog: mostra os logs com referencia
+
+
+ git reset HEAD@{3} --hard: desfaz um rebase
+
+
+
+
