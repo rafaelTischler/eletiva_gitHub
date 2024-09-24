@@ -1,4 +1,4 @@
-var banners = ["Os melhores do Brasil", "Qualidade e preço baixo!"];
+var banners = ["TESTE AULA 24/09/2024", "ALTERANDO O TEXTO DO BANNER"];
 var banner = 0;
 
 function trocaBanner() {
